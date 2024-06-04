@@ -8,7 +8,7 @@
 
 <div align="center">
 
-**🚀 Aspiring Software Engineer | 🔐 Cybersecurity Enthusiast | 🧠 Problem Solver**  
+### **🚀 Aspiring Software Engineer | 🔐 Cybersecurity Enthusiast | 🧠 Problem Solver**  
 
 <br>
 
