@@ -14,11 +14,17 @@
 
 ## ‍💻 My Tech Skills
 
-![My Skills](https://skillicons.dev/icons?i=windows,linux,vscode,vim,py,bash,c,cpp,cs,markdown,unity,html,git,mysql,django,firebase,linkedin,discord,&perline=6)
+![My Skills](https://skillicons.dev/icons?i=windows,linux,vscode,vim,py,bash,c,cpp,cs,markdown,unity,html,git,mysql,django,firebase,linkedin,discord,&perline=6 "Raqeeb27's Skills")
+
+## My TryHackMe Stats
+
+![Raqeeb27's TryHackMe stats](https://tryhackme-badges.s3.amazonaws.com/Raqeeb27.png "Raqeeb27's TryHackMe stats")
 
 ## My Github Stats
 
-![Raqeeb27's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raqeeb27&show_icons=true&theme=radical&show=reviews,prs_merged)
+![Raqeeb27's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raqeeb27&show_icons=true&theme=radical&show=reviews,prs_merged "Raqeeb27's GitHub stats")
+
+<br>
 
 ## 🌱 My Interests
 
