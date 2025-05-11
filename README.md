@@ -22,7 +22,9 @@
 
 ## My Github Stats
 
-![Raqeeb27's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raqeeb27&show_icons=true&theme=radical&show=reviews,prs_merged "Raqeeb27's GitHub stats")
+![Raqeeb27's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raqeeb27&show_icons=true&theme=radical&hide_border=true "Raqeeb27's GitHub stats")
+
+![Raqeeb27's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raqeeb27&theme=radical&hide_border=true "Raqeeb27's GitHub Streak")
 
 <br>
 
@@ -37,7 +39,7 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammed--abdul--raqeeb-blue)](https://www.linkedin.com/in/mohammed-abdul-raqeeb)
   [![Email](https://img.shields.io/badge/Email-raqeeb2709%40gmail.com-red)](mailto:raqeeb2709@gmail.com)
-  [![Discord](https://img.shields.io/badge/Discord-Raqeeb35-5865F2)](https://discord.com/users/Raqeeb35#4863)
+  [![Discord](https://img.shields.io/badge/Discord-Raqeeb27-5865F2)](https://discord.com/users/Raqeeb35#4863)
   [![Whatsapp](https://img.shields.io/badge/Whatsapp-Raqeeb-geen)](https://api.whatsapp.com/send/?phone=9848524210&text=Hi+Raqeeb27!+I+just+visited+your+Github+profile+and+I%27m+interested+in+connecting+with+you+to+discuss+awesome+code+stuff...%EF%BF%BD%EF%BF%BD&type=phone_number&app_absent=0)
 
   🤝 I’m always eager to collaborate with fellow developers and teams on innovative projects. Let's create something extraordinary together!
