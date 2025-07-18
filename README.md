@@ -2,13 +2,9 @@
 
 # Welcome to My GitHub Profile
 
-</div>
+👋 Hello! I'm MOHAMMED ABDUL RAQEEB (@Raqeeb27), a passionate cybersecurity enthusiast and software engineer with hands-on experience in security, development, and problem-solving across multiple tech domains.   
 
-👋 Hello! I'm MOHAMMED ABDUL RAQEEB (@Raqeeb27), a passionate software engineer with a diverse set of skills in various domains of Technology.  
-
-<div align="center">
-
-### **🚀 Aspiring Software Engineer | 🔐 Cybersecurity Enthusiast | 🧠 Problem Solver**  
+### **🛡️ Cybersecurity Enthusiast | Offensive & Defensive Security Engineer | 💻 Aspiring Software Engineer**  
 
 <br>
 
@@ -16,9 +12,22 @@
 
 ![My Skills](https://skillicons.dev/icons?i=windows,linux,vscode,vim,py,bash,c,cpp,cs,markdown,unity,html,git,mysql,django,firebase,linkedin,discord,&perline=6 "Raqeeb27's Skills")
 
+<br>
+
+## 🏆 My Certifications
+
+<p>
+    <img src="./assets/icons/ISC2_CC-Badge.png" alt="ISC2_CC-Badge" width="20%">
+    <img src="./assets/icons/Google_Cybersecurity_Professional_Certificate-Badge.png" alt="Google_Cybersecurity_Professional_Certificate-Badge" width="20%">
+</p>
+
+<br>
+
 ## My TryHackMe Stats
 
 ![Raqeeb27's TryHackMe stats](https://tryhackme-badges.s3.amazonaws.com/Raqeeb27.png "Raqeeb27's TryHackMe stats")
+
+<br>
 
 ## My Github Stats
 
@@ -30,19 +39,22 @@
 
 ## 🌱 My Interests
 
-🛡️ Cybersecurity | 🎮 Game Development with Unity  
-🧩 Problem Solving | 📖 Continuous Learning and Innovation
+🛡️ Offensive & Defensive Security | 🔍 CTF Solver  
+🧩 Problem Solving | 🎮 Game Development with Unity  
 
 <br>
 
 ## 🔗 Connect with Me
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammed--abdul--raqeeb-blue)](https://www.linkedin.com/in/mohammed-abdul-raqeeb)
-  [![Email](https://img.shields.io/badge/Email-raqeeb2709%40gmail.com-red)](mailto:raqeeb2709@gmail.com)
-  [![Discord](https://img.shields.io/badge/Discord-Raqeeb27-5865F2)](https://discord.com/users/Raqeeb35#4863)
-  [![Whatsapp](https://img.shields.io/badge/Whatsapp-Raqeeb-geen)](https://api.whatsapp.com/send/?phone=9848524210&text=Hi+Raqeeb27!+I+just+visited+your+Github+profile+and+I%27m+interested+in+connecting+with+you+to+discuss+awesome+code+stuff...%EF%BF%BD%EF%BF%BD&type=phone_number&app_absent=0)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/Raqeeb27-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/raqeeb27)&nbsp;
+[![Gmail](https://img.shields.io/badge/Raqeeb2709-D14836?logo=gmail&logoColor=white)](mailto:raqeeb2709@gmail.com)&nbsp;
+[![Discord](https://img.shields.io/badge/RAQEEB27-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/Raqeeb35#4863)&nbsp;
+[![WhatsApp](https://img.shields.io/badge/Raqeeb-25D366?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=9848524210&text=Hi+Raqeeb27!+I+just+visited+your+Github+profile+and+I%27m+interested+in+connecting+with+you+to+discuss+awesome+code+stuff...%EF%BF%BD%EF%BF%BD&type=phone_number&app_absent=0)&nbsp;
+[![X](https://img.shields.io/badge/Raqeeb_27-%23000000.svg?logo=X&logoColor=white)](https://x.com/Raqeeb_27)&nbsp;
+[![Telegram](https://img.shields.io/badge/Raqeeb27-2CA5E0?logo=telegram&logoColor=white)](#)  
 
-  🤝 I’m always eager to collaborate with fellow developers and teams on innovative projects. Let's create something extraordinary together!
+
+  🤝 *I'm always open to exciting collaborations and security-focused projects. Let's build something impactful together!*
   
 </div>
 
