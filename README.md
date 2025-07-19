@@ -35,6 +35,8 @@
 
 ![Raqeeb27's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raqeeb27&theme=radical&hide_border=true "Raqeeb27's GitHub Streak")
 
+![Raqeeb27 GitHub Profile Views](https://komarev.com/ghpvc/?username=Raqeeb27&label=PROFILE+VIEWS&style=for-the-badge&abbreviated=true)
+
 <br>
 
 ## 🌱 My Interests
