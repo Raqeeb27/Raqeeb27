@@ -4,7 +4,13 @@
 
 👋 Hello! I'm MOHAMMED ABDUL RAQEEB (@Raqeeb27), a passionate cybersecurity enthusiast and software engineer with hands-on experience in security, development, and problem-solving across multiple tech domains.   
 
+<br>
+
 ### **🛡️ Cybersecurity Enthusiast | Offensive & Defensive Security Engineer | 💻 Aspiring Software Engineer**  
+
+<br>
+
+![Raqeeb27 GitHub Profile Views](https://komarev.com/ghpvc/?username=Raqeeb27&label=RAQEEB27+PROFILE+VIEWS&style=for-the-badge&abbreviated=true)  
 
 <br>
 
@@ -34,8 +40,6 @@
 ![Raqeeb27's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raqeeb27&show_icons=true&theme=radical&hide_border=true "Raqeeb27's GitHub stats")
 
 ![Raqeeb27's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raqeeb27&theme=radical&hide_border=true "Raqeeb27's GitHub Streak")
-
-![Raqeeb27 GitHub Profile Views](https://komarev.com/ghpvc/?username=Raqeeb27&label=PROFILE+VIEWS&style=for-the-badge&abbreviated=true)
 
 <br>
 
