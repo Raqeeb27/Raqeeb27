@@ -23,7 +23,7 @@
 ## 🏆 My Certifications
 
 <p>
-    <img src="./assets/icons/ISC2_CC-Badge.png" alt="ISC2_CC-Badge" width="20%">
+    <img src="./assets/icons/ISC2_CC-Badge.png" alt="ISC2_CC-Badge" width="20%">&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="./assets/icons/Google_Cybersecurity_Professional_Certificate-Badge.png" alt="Google_Cybersecurity_Professional_Certificate-Badge" width="20%">
 </p>
 
