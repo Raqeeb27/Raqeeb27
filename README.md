@@ -52,12 +52,12 @@
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/Raqeeb27-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/raqeeb27 "Raqeeb27-LinkedIn")&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Raqeeb2709-D14836?logo=gmail&logoColor=white)](mailto:raqeeb2709@gmail.com "Raqeeb2709-Gmail")&nbsp;&nbsp;
-[![Discord](https://img.shields.io/badge/RAQEEB27-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/Raqeeb35#4863 "Raqeeb27-Discord")&nbsp;&nbsp;
-[![WhatsApp](https://img.shields.io/badge/Raqeeb-25D366?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=9848524210&text=Hi+Raqeeb27!+I+just+visited+your+Github+profile+and+I%27m+interested+in+connecting+with+you+to+discuss+awesome+code+stuff...%EF%BF%BD%EF%BF%BD&type=phone_number&app_absent=0 "Raqeeb27-WhatsApp")&nbsp;&nbsp;
-[![X](https://img.shields.io/badge/Raqeeb_27-%23000000.svg?logo=X&logoColor=white)](https://x.com/Raqeeb_27 "Raqeeb27-X")&nbsp;&nbsp;
-[![Telegram](https://img.shields.io/badge/Raqeeb_27-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Raqeeb_27/ "Raqeeb27-Telegram")  
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/Raqeeb27-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/raqeeb27 "Raqeeb27-LinkedIn")&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/Raqeeb2709-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:raqeeb2709@gmail.com "Raqeeb2709-Gmail")&nbsp;&nbsp;
+[![Discord](https://img.shields.io/badge/RAQEEB27-%235865F2.svg?&logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/Raqeeb35#4863 "Raqeeb27-Discord")&nbsp;&nbsp;
+[![WhatsApp](https://img.shields.io/badge/Raqeeb-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://api.whatsapp.com/send/?phone=9848524210&text=Hi+Raqeeb27!+I+just+visited+your+Github+profile+and+I%27m+interested+in+connecting+with+you+to+discuss+awesome+code+stuff...%EF%BF%BD%EF%BF%BD&type=phone_number&app_absent=0 "Raqeeb27-WhatsApp")&nbsp;&nbsp;
+[![X](https://img.shields.io/badge/Raqeeb_27-%23000000.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/Raqeeb_27 "Raqeeb27-X")&nbsp;&nbsp;
+[![Telegram](https://img.shields.io/badge/Raqeeb_27-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/Raqeeb_27/ "Raqeeb27-Telegram")  
 
 <br>
 
