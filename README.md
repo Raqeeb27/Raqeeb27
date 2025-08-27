@@ -1,8 +1,19 @@
 <div align="center">
 
+<p>
+
+![Welcome Banner](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=110&section=header&text=Welcome!&fontSize=55&fontColor=ffffff "Welcome Banner")
+![Raqeeb27's Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:000000&height=150&section=header&text=Mohammed+Abdul+Raqeeb%20👨‍💻&fontSize=35&fontColor=ffffff&animation=fadeIn "Raqeeb27's Banner")
+
+</p>
+
+[![Raqeeb27's Typing Intro](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&width=475&lines=Cybersecurity+Enthusiast;ISC²+Certified+in+Cybersecurity;Aspiring+Software+Engineer "Raqeeb27's Typing Intro")](https://git.io/typing-svg)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Colored Line" />  
+
 # Welcome to My GitHub Profile
 
-👋 Hello! I'm MOHAMMED ABDUL RAQEEB (@Raqeeb27), a passionate cybersecurity enthusiast and software engineer with hands-on experience in security, development, and problem-solving across multiple tech domains.   
+👋 Hello! I'm **MOHAMMED ABDUL RAQEEB (@Raqeeb27)**, a passionate cybersecurity enthusiast and software engineer with hands-on experience in security, development, and problem-solving across multiple tech domains.   
 
 <br>
 
@@ -10,15 +21,13 @@
 
 <br>
 
-![Raqeeb27 GitHub Profile Views](https://komarev.com/ghpvc/?username=Raqeeb27&label=RAQEEB27+PROFILE+VIEWS&style=for-the-badge&abbreviated=true)  
+![Raqeeb27 GitHub Profile Views](https://komarev.com/ghpvc/?username=Raqeeb27&label=RAQEEB27+PROFILE+VIEWS&style=for-the-badge&abbreviated=true "Raqeeb27's Profile Views")  
 
 <br>
 
 ## ‍💻 My Tech Skills
 
 ![My Skills](https://skillicons.dev/icons?i=windows,linux,vscode,vim,py,bash,c,cpp,cs,markdown,unity,html,git,mysql,django,firebase,linkedin,discord,&perline=6 "Raqeeb27's Skills")
-
-<br>
 
 ## 🏆 My Certifications
 
@@ -38,6 +47,8 @@
 ## My Github Stats
 
 ![Raqeeb27's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raqeeb27&show_icons=true&theme=radical&hide_border=true "Raqeeb27's GitHub stats")
+
+![Raqeeb27's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raqeeb27&layout=compact&theme=radical&hide_border=true "Raqeeb27's Top Langs")
 
 ![Raqeeb27's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raqeeb27&theme=radical&hide_border=true "Raqeeb27's GitHub Streak")
 
@@ -62,7 +73,7 @@
 <br>
 
   🤝 *I'm always open to exciting collaborations and security-focused projects. Let's build something impactful together!*
-  
+
 </div>
 
 <!-- **Raqeeb27/Raqeeb27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
