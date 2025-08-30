@@ -52,7 +52,7 @@
 
 ![Raqeeb27's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raqeeb27&theme=radical&hide_border=true "Raqeeb27's GitHub Streak")
 
-![Raqeeb27's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Raqeeb27&custom_title=Raqeeb27's%20GitHub%20Activity%20Graph&bg_color=000000&color=ED4179&line=ED4179&point=ED4179&area_color=ED4179&title_color=FFFFFF&area=true&hide_border=true "Raqeeb27's GitHub Activity Graph")
+![Raqeeb27's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Raqeeb27&custom_title=Raqeeb27's%20GitHub%20Activity%20Graph&bg_color=000000&color=ED4179&line=ED4179&point=ED4179&area_color=ED4179&title_color=ED4179&area=true&hide_border=true "Raqeeb27's GitHub Activity Graph")
 
 <br>
 
