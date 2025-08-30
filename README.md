@@ -13,7 +13,7 @@
 
 # Welcome to My GitHub Profile
 
-👋 Hello! I'm **MOHAMMED ABDUL RAQEEB (@Raqeeb27)**, a passionate cybersecurity enthusiast and software engineer with hands-on experience in security, development, and problem-solving across multiple tech domains.   
+👋 Hello! I'm **MOHAMMED ABDUL RAQEEB (@Raqeeb27)**, a passionate cybersecurity enthusiast and software engineer with hands-on experience in security, development, and problem-solving across multiple tech domains.  
 
 <br>
 
@@ -51,6 +51,8 @@
 ![Raqeeb27's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raqeeb27&layout=compact&theme=radical&hide_border=true "Raqeeb27's Top Langs")
 
 ![Raqeeb27's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raqeeb27&theme=radical&hide_border=true "Raqeeb27's GitHub Streak")
+
+![Raqeeb27's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Raqeeb27&custom_title=Raqeeb27's%20GitHub%20Activity%20Graph&bg_color=000000&color=ED4179&line=ED4179&point=ED4179&area_color=ED4179&title_color=FFFFFF&area=true&hide_border=true "Raqeeb27's GitHub Activity Graph")
 
 <br>
 
